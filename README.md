@@ -1,2 +1,2 @@
-# django-nginx-unit
-How to use django with NGINX Unit
+# Hello Word Java-nginx-unit
+How to use Java with NGINX Unit. A HelloWord app.
