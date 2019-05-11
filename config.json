@@ -8,8 +8,8 @@
     "applications": {
         "helloWorldJavaApp": {
             "type": "java",
-            "classpath": ["./javax.servlet-api-3.1.0.jar"],
-            "webapp": "./HelloWorld.war"
+            "classpath": ["/path/to/javax.servlet-api-3.1.0.jar"],
+            "webapp": "/path/to/HelloWorld.war"
         }
     }
 }
