@@ -1,0 +1,15 @@
+{
+    "listeners": {
+        "127.0.0.1:8300": {
+            "pass": "applications/helloWorldJavaApp"
+        }
+    },
+
+    "applications": {
+        "helloWorldJavaApp": {
+            "type": "java",
+            "classpath": ["./javax.servlet-api-3.1.0.jar"],
+            "webapp": "./HelloWorld.war"
+        }
+    }
+}
